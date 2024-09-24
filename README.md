@@ -1,6 +1,4 @@
-# RGroza.github.io
-
-# Games Programmer
+### Games Programmer
 
 
 ### Education
