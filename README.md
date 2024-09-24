@@ -1,11 +1,7 @@
-### Games Programmer
-
+#Software Engineer
 
 ### Education
-Abertay University Software Engineer - year 4
-
-### Work Experience
-none
+Student at Abertay University
 
 ## Projects
 RatKing
