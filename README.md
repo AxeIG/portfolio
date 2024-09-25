@@ -1,10 +1,10 @@
-#Software Engineer
+# Software Engineer
 
 ### Education
 Student at Abertay University
 
 ## Projects
-### RatKingg
+### RatKing
 
 ![RatKing banner](/assets/img/ratking_banner.jpg)
 [Itch.io page](https://cloud-kelpie.itch.io/ratking)
