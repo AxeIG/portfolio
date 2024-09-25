@@ -1,14 +1,15 @@
-#Software Engineer
+### Software Engineer
 
 ### Education
 Student at Abertay University
 
 ## Projects
-### RatKingg
+### RatKing
 
 ![RatKing banner](/assets/img/ratking_banner.jpg)
 [Itch.io page](https://cloud-kelpie.itch.io/ratking)
 
-Ratking is a stealth extraction video game made in 14 weeks in Unity for Abertay University's DES310 Module, developed under Modern Wolf. The goal of the project was to make an extraction game, but rather than having it focused on the high intensity action packed style that this genre tends to have we wanted to see how it would work if combined with a stealth game approach. In the game you play as a rat sneaking through a mansion that belongs to a cat baron, trying to steal their goods in order to upgrade your base, all while avoiding the well-trained guards protecting the mansion. For this project I was responsible for the AI and stealth mechanics.
+Ratking is a stealth extraction game developed in Unity in 14 weeks for Abertay University's DES310 module, in collaboration with Modern Wolf. The project aimed to explore the extraction game genre, traditionally known for high-intensity, action-packed gameplay, by integrating a stealth-based approach instead. The player controls a rat sneaking through a mansion that belongs to a cat baron, stealing valuable goods in order to upgrade your base, all while avoiding the well-trained guards protecting the mansion. For this project I was responsible for designing the  AI and stealth mechanics.
+
 
 
