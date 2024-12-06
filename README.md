@@ -21,17 +21,17 @@ Grade Received: B+
 A scene created in for my year 3 shaders module, utilising graphics techniques in order to create a sandy beach.
 
 The coursework consists of a 3D scene created with DirectX shaders meant to showcase some key graphical techniques. The scene contains:
-    An isolated mountain surrounded by water which where both created with use of vertex manipulation. The mountain is achieved with the use of heightmaps, the wave is created using Gerstner Waves 
+An isolated mountain surrounded by water which where both created with use of vertex manipulation. The mountain is achieved with the use of heightmaps, the wave is created using Gerstner Waves 
 
-    A rendered module representing a ship is placed on the beach and it reacts to two different light source that make the model cast shadows.
+A rendered module representing a ship is placed on the beach and it reacts to two different light source that make the model cast shadows.
 
-    A flying moveable UFO on the grassy plane that carries an object and acts as a spotlight towards the plane underneath it.
+A flying moveable UFO on the grassy plane that carries an object and acts as a spotlight towards the plane underneath it.
     
-    Two brick-textured spheres meant to showcase point and specular light
+Two brick-textured spheres meant to showcase point and specular light
     
-    The application also has a bloom toggle as a post processing effect utilising gaussian blur.
+The application also has a bloom toggle as a post processing effect utilising gaussian blur.
     
-    ImGui is included to allow manipulation of certain elements in the scene. The UI enables the user to edit the wave’s properties, such as individual directions, wave length and steepness, manipulate light properties such as position and direction, and edit spotlight or specular attenuation factors. 
+ImGui is included to allow manipulation of certain elements in the scene. The UI enables the user to edit the wave’s properties, such as individual directions, wave length and steepness, manipulate light properties such as position and direction, and edit spotlight or specular attenuation factors. 
 
 
 
@@ -41,14 +41,14 @@ The coursework consists of a 3D scene created with DirectX shaders meant to show
 Grade Received: B+
 
 A scene constructed using the OpenGL graphics API created for my year 2 Graphics Programming module. 
-The scene consists of :
-    Two rendered models that react to a spinning light source that cast shadows.
+The scene consists of:
+Two rendered models that react to a spinning light source that cast shadows.
     
-    A procedurally generated cylinder that holds a transparable case holding a rendered model. The display case spins around clockwise.
+A procedurally generated cylinder that holds a transparable case holding a rendered model. The display case spins around clockwise.
     
-    A mirror that reflects the displayed model.
+A mirror that reflects the displayed model.
     
-    A plane spinning around the scene holding an interchengable camera position
+A plane spinning around the scene holding an interchengable camera position
 
 
 
