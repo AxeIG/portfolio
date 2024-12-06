@@ -18,7 +18,7 @@ Ratking is a stealth extraction game developed in Unity in 14 weeks for Abertay 
 ![Shaders banner](/assets/img/DirectX11_Scene.png)
 Grade Received: B+
 
-A scene created in for my shaders module, utilising graphics techniques in order to create a sandy beach.
+A scene created in for my year 3 shaders module, utilising graphics techniques in order to create a sandy beach.
 
 The coursework consists of a 3D scene created with DirectX shaders meant to showcase some key graphical techniques. The scene contains:
     An isolated mountain surrounded by water which where both created with use of vertex manipulation. The mountain is achieved with the use of heightmaps, the wave is created using Gerstner Waves 
@@ -40,7 +40,7 @@ The coursework consists of a 3D scene created with DirectX shaders meant to show
 ![OpenGL banner](/assets/img/OpenGL_Banner.png)
 Grade Received: B+
 
-A scene constructed using the OpenGL graphics API created for my Graphics Programming module. 
+A scene constructed using the OpenGL graphics API created for my year 2 Graphics Programming module. 
 The scene consists of :
     Two rendered models that react to a spinning light source that cast shadows.
     
@@ -49,6 +49,14 @@ The scene consists of :
     A mirror that reflects the displayed model.
     
     A plane spinning around the scene holding an interchengable camera position
+
+
+
+### HanVellsing
+![HanVellsing Banner](assets/img/HanVellsing_Banner.png)
+A small one level game created for one of my university modules in year 1 utlising SFML.
+The game is a sidescroller platformer with some combat elements in which you play as a demon hunter with the goal of killing all the demons on the level. The project includes a scene manager for the different menu screens, an animation system to help managing faulty assets, enemy managers and a simmple enemy AI that utilises a state machine to dictate actions.
+
 
 
 
