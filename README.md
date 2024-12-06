@@ -72,8 +72,8 @@ Grade: A+
 A board game made in Tabletopia, created for an Abertay Elective focused on expressing awareness on a topic of choice through the use of boardgames.
 The game focuses on the effects of industrialism without enviorment consideration, focusing on the conflict and mistrust between the two sides.
 There are two factions which compete against one another:
-    A company which desires a fast expansion.
-    A biodiversity organisation concerned regarding possible damages caused by the expansion
+A company which desires a fast expansion.
+A biodiversity organisation concerned regarding possible damages caused by the expansion
 
 Both factions have a set of tokens they can use to gamble for tile slots on the map, all tokens are placed face down and are being revealed at the end stage of the game.
 
@@ -87,7 +87,7 @@ As a means to make strategy games more accessible DaciDava was created. The game
 The game board is positioned between the two players. The color of the pieces is drawn.
 Each player has 30 TOWERS and 7 CITADELS of the same color. The 7 CITADELS are arranged in the
 predetermined places of the board (One KING, two CORNERS, two TRIPLE and two DOUBLE).
-[Dacidava Pieces](/assets/img/Dacidava_Pieces.png)
+![Dacidava Pieces](/assets/img/Dacidava_Pieces.png)
 
 
 
